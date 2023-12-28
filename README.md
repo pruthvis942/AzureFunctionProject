@@ -44,6 +44,10 @@ Azure Timer Trigger Function.
 ## Screenshots
 
 ![image](https://github.com/pruthvis942/AzureFunctionProject/assets/154806202/a3445642-ae6b-4922-9be2-552bc12a76de)
-![image](https://github.com/pruthvis942/AzureFunctionProject/assets/154806202/f8e45f97-4a78-4c0c-9e60-8acf77338806)
+
+## CRUD Screenshots
+
 ![image](https://github.com/pruthvis942/AzureFunctionProject/assets/154806202/5e9d2cdd-1831-419d-a33d-8f7763408ec6)
+![image](https://github.com/pruthvis942/AzureFunctionProject/assets/154806202/f8e45f97-4a78-4c0c-9e60-8acf77338806)
+
 
